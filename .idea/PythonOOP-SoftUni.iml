@@ -2,6 +2,13 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/03.Inheritance/Lab/01.food" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.Inheritance/Lab/02.single_inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.Inheritance/Lab/03.multiple_inheretance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.Inheritance/Lab/04.multilevel_inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.ClassesAndObjects/Exercises/05.to-do_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.ClassesAndObjects/Exercises/06.guild_system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.ClassesAndObjects/Exercises/07.spoopify" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />

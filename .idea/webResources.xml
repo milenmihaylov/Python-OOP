@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/01.food/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/02.single_inheritance/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/03.multiple_inheretance/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/04.multilevel_inheritance/project" />
+            <path value="file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/05.to-do_list/project" />
+            <path value="file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/06.guild_system/project" />
+            <path value="file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/07.spoopify/project" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

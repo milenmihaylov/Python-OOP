@@ -1,12 +1,12 @@
 class Task:
-    def __init__(self, name: str, due_date: str):
+    def __init__(self, name, due_date):
         self.name = name
         self.due_date = due_date
         self.comments = []
         self.completed = False
 
     def change_name(self, new_name: str):
-        if new_name == self.name:
+        if self.name == new_name:
             return "Name cannot be the same."
         self.name = new_name
         return self.name
@@ -21,7 +21,7 @@ class Task:
         self.comments.append(comment)
 
     def edit_comment(self, comment_number: int, new_comment: str):
-        if comment_number >= len(self.comments):
+        if comment_number not in range(len(self.comments)):
             return "Cannot find comment."
         self.comments[comment_number] = new_comment
         return ', '.join(self.comments)
