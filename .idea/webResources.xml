@@ -5,13 +5,11 @@
       <entry url="file://$PROJECT_DIR$">
         <entryData>
           <resourceRoots>
-            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/01.food/project" />
-            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/02.single_inheritance/project" />
-            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/03.multiple_inheretance/project" />
-            <path value="file://$PROJECT_DIR$/03.Inheritance/Lab/04.multilevel_inheritance/project" />
-            <path value="file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/05.to-do_list/project" />
-            <path value="file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/06.guild_system/project" />
-            <path value="file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/07.spoopify/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Exercises/01.person/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Exercises/02.zoo/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Exercises/03.hero/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Exercises/04.NeedForSpeed/project" />
+            <path value="file://$PROJECT_DIR$/03.Inheritance/Exercises/05.shop/project" />
           </resourceRoots>
         </entryData>
       </entry>
