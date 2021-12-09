@@ -11,3 +11,6 @@ class Person:
     def age(self, value):
         pass
 
+
+p = Person('Stive O', 25)
+print(type(p.__class__.__name__))
