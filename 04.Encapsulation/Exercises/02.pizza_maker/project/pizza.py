@@ -16,7 +16,7 @@ class Pizza:
     @name.setter
     def name(self, value):
         if len(value) == 0:
-            raise ValueError("The name cannot be an empty string")
+            raise ValueError("The valid_name cannot be an empty string")
         self.__name = value
 
     @property

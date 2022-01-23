@@ -26,19 +26,19 @@ class Zoo:
         if workers_count >= self.__workers_capacity:
             return "Not enough space for worker"
         self.workers.append(worker)
-        return f"{worker.name} the {worker.__class__.__name__} hired successfully"
+        return f"{worker.valid_name} the {worker.__class__.__name__} hired successfully"
 
     def fire_worker(self, worker_name):
         for i, worker in enumerate(self.workers):
-            if worker.name == worker_name:
+            if worker.valid_name == worker_name:
                 self.workers.pop(i)
-                return f"{worker.name} fired successfully"
+                return f"{worker.valid_name} fired successfully"
         return f"There is no {worker_name} in the zoo"
 
     def pay_workers(self):
         total_salaries = 0
         for worker in self.workers:
-            total_salaries += worker.salary
+            total_salaries += worker.valid_salary
         if total_salaries > self.__budget:
             return "You have no budget to pay your workers. They are unhappy"
         self.__budget -= total_salaries

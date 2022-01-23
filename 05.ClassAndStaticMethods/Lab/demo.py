@@ -45,7 +45,7 @@ class Student(Person):
 
 
 # new_student = Student('aaa', 6)
-# print(new_student.name)
+# print(new_student.valid_name)
 # Person('1u', 8)
 # Student('1u', 9)
 

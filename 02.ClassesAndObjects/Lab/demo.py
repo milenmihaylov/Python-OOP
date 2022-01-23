@@ -16,7 +16,7 @@ l2 = Laptop('Latitude 5000')
 l3 = l1
 print(l1.name)
 print(l3.name)
-l1.name = 'new name'
+l1.name = 'new valid_name'
 # Laptop.brand = 'HP'
 
 print(l1 == l2)

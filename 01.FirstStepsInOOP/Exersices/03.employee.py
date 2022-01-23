@@ -10,14 +10,14 @@ class Employee:
 
     def get_annual_salary(self):
         """
-        :return: returns the total salary for 12 months
+        :return: returns the total valid_salary for 12 months
         """
         return self.salary * 12
 
     def raise_salary(self, amount: int):
         """
-        :param amount: increases the salary by the given amount
-        :return: returns the new salary
+        :param amount: increases the valid_salary by the given amount
+        :return: returns the new valid_salary
         """
         self.salary += amount
         return self.salary

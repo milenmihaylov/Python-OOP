@@ -4,7 +4,7 @@ from project.team import Team
 
 p = Player("Pall", 1, 3, 5, 7)
 
-print("Player name:", p.name)
+print("Player valid_name:", p.name)
 print("Points sprint:", p._Player__sprint)
 print("Points dribble:", p._Player__dribble)
 print("Points passing:", p._Player__passing)
@@ -15,7 +15,7 @@ print(p)
 
 print("\nAbout the team")
 t = Team("Best", 10)
-print("Team name:", t._Team__name)
+print("Team valid_name:", t._Team__name)
 print("Teams points:", t._Team__rating)
 print("Teams players:", len(t._Team__players))
 print(t.add_player(p))

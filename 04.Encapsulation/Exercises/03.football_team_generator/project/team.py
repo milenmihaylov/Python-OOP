@@ -9,13 +9,13 @@ class Team:
 
     def add_player(self, player: Player):
         if player in self.__players:
-            return f"Player {player.name} has already joined"
+            return f"Player {player.valid_name} has already joined"
         self.__players.append(player)
-        return f"Player {player.name} joined team {self.__name}"
+        return f"Player {player.valid_name} joined team {self.__name}"
 
     def remove_player(self, player_name: str):
         for i, player in enumerate(self.__players):
-            if player.name == player_name:
+            if player.valid_name == player_name:
                 self.__players.pop(i)
                 return player
         return f"Player {player_name} not found"

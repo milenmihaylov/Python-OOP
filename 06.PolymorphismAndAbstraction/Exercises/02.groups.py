@@ -22,7 +22,7 @@ class Group:
         return len(self.people)
 
     def __add__(self, other):
-        new_name = f'{self.name} {other.name}'
+        new_name = f'{self.name} {other.valid_name}'
         new_list = self.people + other.people
         return Group(new_name, new_list)
 

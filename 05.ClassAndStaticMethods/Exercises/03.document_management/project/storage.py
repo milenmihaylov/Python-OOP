@@ -24,7 +24,7 @@ class Storage:
     def edit_category(self, category_id: int, new_name: str):
         for category in self.categories:
             if category.id == category_id:
-                category.name = new_name
+                category.valid_name = new_name
                 break
 
     def edit_topic(self, topic_id: int, new_topic: str, new_storage_folder: str):

@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/06.PolymorphismAndAbstraction/Exercises/05.animals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Testing/Lab/01.test_worker" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
