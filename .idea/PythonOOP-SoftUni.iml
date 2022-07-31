@@ -2,9 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/06.PolymorphismAndAbstraction/Exercises/05.animals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10.Testing/Exercises/01. Mammal_Skeleton/mammal/project" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10.Testing/Exercises/02. Vehicle_Skeleton/vehicle/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.ExamPreparation2_Exam_21_08_15/01. Skeleton/exam_skeleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.DesignPatterns/Lab" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
