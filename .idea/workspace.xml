@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feae4b98-9beb-4601-843a-d84c779763d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonOOP-SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonOOP-SoftUni.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20pIzpOoLGGsiSsksl8v0E91hss" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;4d232a&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/11.ExamPreparation1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exams/Exam20220814/01.Structure_Skeleton" />
+      <recent name="$PROJECT_DIR$/Exams/Exam20211211/01.Structure_Skeleton" />
+      <recent name="$PROJECT_DIR$/Exams/Exam20211211/project" />
+      <recent name="$PROJECT_DIR$/12.ExamPreparation2_Exam_21_08_25" />
+      <recent name="$PROJECT_DIR$/12.ExamPreparation2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOOP-SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="food_orders_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOOP-SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project/food_orders_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOOP-SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOOP-SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="starter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOOP-SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project/meals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project/meals/starter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.food_orders_app" />
+        <item itemvalue="Python.starter" />
+        <item itemvalue="Python.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feae4b98-9beb-4601-843a-d84c779763d5" name="Changes" comment="" />
+      <created>1636735367726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636735367726</updated>
+      <workItem from="1636735370332" duration="18225000" />
+      <workItem from="1637325924579" duration="8045000" />
+      <workItem from="1637398664730" duration="1996000" />
+      <workItem from="1637400836946" duration="3169000" />
+      <workItem from="1637447667701" duration="3641000" />
+      <workItem from="1637487550193" duration="3713000" />
+      <workItem from="1637585976833" duration="431000" />
+      <workItem from="1637786908216" duration="5602000" />
+      <workItem from="1637832487561" duration="6729000" />
+      <workItem from="1638009476896" duration="18644000" />
+      <workItem from="1638039608666" duration="3584000" />
+      <workItem from="1638124074041" duration="1441000" />
+      <workItem from="1638127205902" duration="2945000" />
+      <workItem from="1638132674421" duration="2171000" />
+      <workItem from="1638559563663" duration="3319000" />
+      <workItem from="1638878356910" duration="23576000" />
+      <workItem from="1639048028992" duration="14444000" />
+      <workItem from="1639419536816" duration="34479000" />
+      <workItem from="1640003351433" duration="11132000" />
+      <workItem from="1640889362807" duration="2001000" />
+      <workItem from="1640895517134" duration="1703000" />
+      <workItem from="1640916933190" duration="599000" />
+      <workItem from="1640957289274" duration="18997000" />
+      <workItem from="1641232789630" duration="7254000" />
+      <workItem from="1641401891055" duration="6189000" />
+      <workItem from="1641489505770" duration="1564000" />
+      <workItem from="1641648214549" duration="13766000" />
+      <workItem from="1641730469643" duration="13958000" />
+      <workItem from="1641848285814" duration="599000" />
+      <workItem from="1641936014105" duration="3182000" />
+      <workItem from="1642063247184" duration="23654000" />
+      <workItem from="1642334719690" duration="11998000" />
+      <workItem from="1642417996815" duration="23296000" />
+      <workItem from="1642940486826" duration="10537000" />
+      <workItem from="1643014039689" duration="13619000" />
+      <workItem from="1643114722488" duration="12088000" />
+      <workItem from="1643194401127" duration="616000" />
+      <workItem from="1643232172304" duration="1745000" />
+      <workItem from="1643395837023" duration="8383000" />
+      <workItem from="1643538375075" duration="5267000" />
+      <workItem from="1643922221380" duration="22000" />
+      <workItem from="1650653861360" duration="737000" />
+      <workItem from="1651601279744" duration="9395000" />
+      <workItem from="1651832564570" duration="16607000" />
+      <workItem from="1653219526023" duration="15304000" />
+      <workItem from="1654373025260" duration="729000" />
+      <workItem from="1654442835873" duration="608000" />
+      <workItem from="1654871440369" duration="409000" />
+      <workItem from="1654871872933" duration="762000" />
+      <workItem from="1658325486204" duration="6583000" />
+      <workItem from="1658926269720" duration="7130000" />
+      <workItem from="1659287283716" duration="964000" />
+      <workItem from="1660655429952" duration="19703000" />
+      <workItem from="1660692801746" duration="7000" />
+      <workItem from="1661028153632" duration="5000000" />
+      <workItem from="1661071647932" duration="9376000" />
+      <workItem from="1661148098383" duration="13396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.FirstStepsInOOP/Lab/01.rhombus_of_stars.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.FirstStepsInOOP/Exersices/main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02.ClassesAndObjects/Exercises/04.pizza_delivery.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises/01.photo_album.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises/02.movie_world/main.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exams/EXAM_Retake_21_12_20/first_try/project/controller.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exams/EXAM_Retake_21_12_20/first_try/main.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06.PolymorphismAndAbstraction/Exercises/03.account.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Lab/01.custom_range.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Lab/03.vowls.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Lab/demo_generators.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Lab/demo_lasy.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Lab/map_demo.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises/01.take_skip.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises/02.dictionary_iterator.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises/05.take_halves.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises/08.prime_numbers.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises/09.positive_permutations.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13.ExamPreparation2_Exam_21_08_15/01. Skeleton/exam_skeleton/project/bakery.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exams/Exam20211211/01.Structure_Skeleton/project/main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exams/Exam20220814/01.Structure_Skeleton/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/main.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$library.coverage" NAME="library Coverage Results" MODIFIED="1638028350861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/08.library/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$05_account.coverage" NAME="05.account Coverage Results" MODIFIED="1638964494869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$05_take_halves.coverage" NAME="05.take_halves Coverage Results" MODIFIED="1642187329870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03__even_numbers.coverage" NAME="03. even_numbers Coverage Results" MODIFIED="1642411534178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_photo_album.coverage" NAME="01.photo_album Coverage Results" MODIFIED="1639668522081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_shop.coverage" NAME="01.shop Coverage Results" MODIFIED="1636899262541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_mammal.coverage" NAME="02.mammal Coverage Results" MODIFIED="1638568491295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1639057815128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Exercises/04.restaurant" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1636905835317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$08_prime_numbers.coverage" NAME="08.prime_numbers Coverage Results" MODIFIED="1642192811921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$05_cache.coverage" NAME="05.cache Coverage Results" MODIFIED="1642512039145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$zoo.coverage" NAME="zoo Coverage Results" MODIFIED="1638970868703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Exercises/01.WildCatZoo/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$section.coverage" NAME="section Coverage Results" MODIFIED="1638014557903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/05.to-do_list/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$06_fibonacci_generator.coverage" NAME="06.fibonacci_generator Coverage Results" MODIFIED="1642190796952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_multiplay.coverage" NAME="04.multiplay Coverage Results" MODIFIED="1642432520747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$band.coverage" NAME="band Coverage Results" MODIFIED="1638023506065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/07.spoopify/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$06_generator_range.coverage" NAME="05.generator_range Coverage Results" MODIFIED="1642076717441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$demo.coverage" NAME="demo Coverage Results" MODIFIED="1658332977442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.DesignPatterns/Lab/creational" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$sports_car.coverage" NAME="sports_car Coverage Results" MODIFIED="1660666426899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/Exam20211211/01.Structure_Skeleton/project/car" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$food_orders_app.coverage" NAME="food_orders_app Coverage Results" MODIFIED="1661153759486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_circle.coverage" NAME="03.circle Coverage Results" MODIFIED="1637350357191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_countdown_iterator.coverage" NAME="03.countdown_iterator Coverage Results" MODIFIED="1642182798463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$gym.coverage" NAME="gym Coverage Results" MODIFIED="1639694454416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises/04.gym/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$controller.coverage" NAME="controller Coverage Results" MODIFIED="1660666638507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/Exam20211211/01.Structure_Skeleton/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$07_store_results.coverage" NAME="07.store_results Coverage Results" MODIFIED="1642513737827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1641408530355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Lab/02_OCP" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_account.coverage" NAME="03.account Coverage Results" MODIFIED="1641062006751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$07_reader.coverage" NAME="07.reader Coverage Results" MODIFIED="1642191353754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$main.coverage" NAME="main Coverage Results" MODIFIED="1661160567389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$05_smartphone.coverage" NAME="05.smartphone Coverage Results" MODIFIED="1637361432055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$06_steam_user.coverage" NAME="06.steam_user Coverage Results" MODIFIED="1636901497113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_take_skip.coverage" NAME="01.take_skip Coverage Results" MODIFIED="1642185465727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$passing_arguments_demo.coverage" NAME="passing_arguments_demo Coverage Results" MODIFIED="1642431221521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_time.coverage" NAME="02.time Coverage Results" MODIFIED="1637399967035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$demo_generators.coverage" NAME="demo_generators Coverage Results" MODIFIED="1642182732659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$hotel.coverage" NAME="hotel Coverage Results" MODIFIED="1639662824402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Lab/04.hotel_rooms/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$car_manager.coverage" NAME="car_manager Coverage Results" MODIFIED="1643139175525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.Testing/Lab/04.car_manager" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_employee.coverage" NAME="03.employee Coverage Results" MODIFIED="1636899938124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$entertainment_system.coverage" NAME="entertainment_system Coverage Results" MODIFIED="1641652577224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Lab/04_ISP" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_class_book.coverage" NAME="03.class_book Coverage Results" MODIFIED="1636895443257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$classes_demos.coverage" NAME="classes_demos Coverage Results" MODIFIED="1636894740179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1658332868942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.DesignPatterns/Lab/creational" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$class_decorators_demo.coverage" NAME="class_decorators_demo Coverage Results" MODIFIED="1642501521856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$test_code_library.coverage" NAME="test_code_library Coverage Results" MODIFIED="1638028493842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$animal.coverage" NAME="animal Coverage Results" MODIFIED="1641404585766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Lab/02_OCP" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$hero.coverage" NAME="hero Coverage Results" MODIFIED="1638128023825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03.Inheritance/Exercises/03.hero/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_cup.coverage" NAME="04.cup Coverage Results" MODIFIED="1636900219000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_vehicle.coverage" NAME="01.vehicle Coverage Results" MODIFIED="1640959317758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_hero.coverage" NAME="02.hero Coverage Results" MODIFIED="1636899473678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_vowel_filter.coverage" NAME="02.vowel_filter Coverage Results" MODIFIED="1642364207341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_image_area.coverage" NAME="02.image_area Coverage Results" MODIFIED="1639775441541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$test_code_library_2.coverage" NAME="test_code_library_2 Coverage Results" MODIFIED="1638028463992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/08.library" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_profile.coverage" NAME="03.profile Coverage Results" MODIFIED="1638890228169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$album.coverage" NAME="album Coverage Results" MODIFIED="1638022309973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/07.spoopify/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$guild.coverage" NAME="guild Coverage Results" MODIFIED="1638018258434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/06.guild_system/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$user.coverage" NAME="user Coverage Results" MODIFIED="1638028734662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/08.library/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$prisoner.coverage" NAME="prisoner Coverage Results" MODIFIED="1641676830671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Exercises/exercise-resources-solid" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_judge.coverage" NAME="02.judge Coverage Results" MODIFIED="1641758481591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_playing.coverage" NAME="03.playing Coverage Results" MODIFIED="1639779417759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_reverse_iter.coverage" NAME="02.reverse_iter Coverage Results" MODIFIED="1641758352778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$builder.coverage" NAME="builder Coverage Results" MODIFIED="1658933377035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.DesignPatterns/Lab/creational" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$vehicle_demo.coverage" NAME="vehicle_demo Coverage Results" MODIFIED="1640959951841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_car.coverage" NAME="04.car Coverage Results" MODIFIED="1636896242818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_dictionary_iterator.coverage" NAME="02.dictionary_iterator Coverage Results" MODIFIED="1642185157974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1639684877980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises/03.document_management" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$dvd.coverage" NAME="dvd Coverage Results" MODIFIED="1639669408307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises/02.movie_world/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$driver.coverage" NAME="driver Coverage Results" MODIFIED="1660661234389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/Exam20211211/01.Structure_Skeleton/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_vet.coverage" NAME="01.vet Coverage Results" MODIFIED="1637364863090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$05_music.coverage" NAME="05.music Coverage Results" MODIFIED="1636896618609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_number_increment.coverage" NAME="01.number_increment Coverage Results" MODIFIED="1642411568802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$extended_list.coverage" NAME="extended_list Coverage Results" MODIFIED="1643115279026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.Testing/Lab/03.list" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_squares.coverage" NAME="04.squares Coverage Results" MODIFIED="1642162609215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_email_validator.coverage" NAME="04.email_validator Coverage Results" MODIFIED="1638912865251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_logged.coverage" NAME="01.logged Coverage Results" MODIFIED="1642509576786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$vehicle.coverage" NAME="vehicle Coverage Results" MODIFIED="1643233235090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.Testing/Exercises/02. Vehicle_Skeleton/vehicle/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_pizza_delivery.coverage" NAME="04.pizza_delivery Coverage Results" MODIFIED="1637403582367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_shop.coverage" NAME="02.shop Coverage Results" MODIFIED="1639607515284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$08_execution_time.coverage" NAME="08.execution_time Coverage Results" MODIFIED="1642514049629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$child.coverage" NAME="child Coverage Results" MODIFIED="1638123952514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03.Inheritance/Exercises/01.person/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$singleton.coverage" NAME="singleton Coverage Results" MODIFIED="1658334547701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.DesignPatterns/Lab/creational" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_groups.coverage" NAME="02.groups Coverage Results" MODIFIED="1641058384031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$print_books.coverage" NAME="print_books Coverage Results" MODIFIED="1641669135455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Lab/05_DIP" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$starter.coverage" NAME="starter Coverage Results" MODIFIED="1661152283404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project/meals" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_sequence_repeat.coverage" NAME="04.sequence_repeat Coverage Results" MODIFIED="1642186102680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$workers.coverage" NAME="workers Coverage Results" MODIFIED="1641673460761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Exercises/exercise-resources-solid" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_judge.coverage" NAME="03.judge Coverage Results" MODIFIED="1641761449135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_person.coverage" NAME="01.person Coverage Results" MODIFIED="1638568022526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.Encapsulation/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_point.coverage" NAME="02.point Coverage Results" MODIFIED="1637347500626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$09_positive_permutations.coverage" NAME="09.positive_permutations Coverage Results" MODIFIED="1642193749418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_rhombus_of_stars.coverage" NAME="01.rhombus_of_stars Coverage Results" MODIFIED="1636808632211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_vowls.coverage" NAME="03.vowls Coverage Results" MODIFIED="1641761062526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$first_class_demo.coverage" NAME="first_class_demo Coverage Results" MODIFIED="1642336079453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_even_parameters.coverage" NAME="02.even_parameters Coverage Results" MODIFIED="1642510161421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$shapes.coverage" NAME="shapes Coverage Results" MODIFIED="1641677723475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Exercises/exercise-resources-solid" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$demo_lasy.coverage" NAME="demo_lasy Coverage Results" MODIFIED="1642180685370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$.coverage" NAME=" Coverage Results" MODIFIED="1661150551590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/EXAM/03.UnitTesting_Skeleton/project/test" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$06_html_tags.coverage" NAME="06.html_tags Coverage Results" MODIFIED="1642512575619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$movie_world.coverage" NAME="movie_world Coverage Results" MODIFIED="1639675972157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Exercises/02.movie_world/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1637488343176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_integer.coverage" NAME="03.integer Coverage Results" MODIFIED="1639659506219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$map_demo.coverage" NAME="map_demo Coverage Results" MODIFIED="1642077829087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_type_check.coverage" NAME="04.type_check Coverage Results" MODIFIED="1642510920301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$emails.coverage" NAME="emails Coverage Results" MODIFIED="1641678982528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Exercises/exercise-resources-solid" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$logger_demo.coverage" NAME="logger_demo Coverage Results" MODIFIED="1642360013111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$workers_updated.coverage" NAME="workers_updated Coverage Results" MODIFIED="1641675278423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Exercises/exercise-resources-solid" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_calculator.coverage" NAME="01.calculator Coverage Results" MODIFIED="1639161727787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.ClassAndStaticMethods/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$robots.coverage" NAME="robots Coverage Results" MODIFIED="1639751404353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Lab/01_Robots" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$food.coverage" NAME="food Coverage Results" MODIFIED="1641064605107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.PolymorphismAndAbstraction/Exercises/04.wild_farm/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$01_custom_range.coverage" NAME="01.custom_range Coverage Results" MODIFIED="1641756100026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1661161845172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$simple_decorator_demo.coverage" NAME="simple_decorator_demo Coverage Results" MODIFIED="1642360188623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$books.coverage" NAME="books Coverage Results" MODIFIED="1641258077395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.SOLID/Lab/01_SRP" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$06_reverse_string.coverage" NAME="06.reverse_string Coverage Results" MODIFIED="1642076958432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.IteratorsAndGenerators/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$07_programmer.coverage" NAME="07.programmer Coverage Results" MODIFIED="1636902076663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$02_scope_mess.coverage" NAME="02.scope_mess Coverage Results" MODIFIED="1636812575458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Lab" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$03_bold_italic_underline.coverage" NAME="03.bold_italic_underline Coverage Results" MODIFIED="1642510448393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.Decorators/Exercises" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$05_flower.coverage" NAME="05.flower Coverage Results" MODIFIED="1636900893685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.FirstStepsInOOP/Exersices" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$player.coverage" NAME="player Coverage Results" MODIFIED="1638016027621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Exercises/06.guild_system/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$client.coverage" NAME="client Coverage Results" MODIFIED="1661151418637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exams/EXAM/01.Structure_Skeleton/project" />
+    <SUITE FILE_PATH="coverage/PythonOOP_SoftUni$04_glass.coverage" NAME="04.glass Coverage Results" MODIFIED="1637355099675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.ClassesAndObjects/Lab" />
+  </component>
+</project>
